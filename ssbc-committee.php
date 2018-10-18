@@ -1,19 +1,15 @@
 <?php
-/**
+/*
  * Plugin Name:     SSBC - Committee
- * Description:     Takes this year's committee from the ssbc_committee table and makes it a group with enhanced viewing permissions. Makes a shorcode, [committee], which inserts a table and dropdown menu which can show present and past committes.
- * Version:         1.0.0
+ * Plugin URI:      https://github.com/curiouscactus/ssbc-committee
+ * Description:     Takes this year's committee from the ssbc_committee table and makes it a group with enhanced viewing permissions. Makes a shorcode, [committee], which inserts a table and dropdown menu which shows present and past committes.
  * Author:          Lois Overvoorde
- * Author URI:      
- * Text Domain:     ssbc-add-committee-to-group
- *
- * @package         SSBCAddCommitteeToGroup
- * @author          Lois Overvoorde <loisovervoorde@gmail.com>
- * @copyright       Copyright (c) 2016, Lois Overvoorde
+ * Author URI:      https://github.com/curiouscactus
+ * Text Domain:     ssbc-committee
+ * Version:         1.0.0
  */
 
 
- 
 // Exit if accessed directly
 
 if( !defined( 'ABSPATH' ) ) exit;
