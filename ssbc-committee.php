@@ -2,7 +2,7 @@
 /*
  * Plugin Name:     SSBC - Committee
  * Plugin URI:      https://github.com/curiouscactus/ssbc-committee
- * Description:     Takes the users in this year's committee from the ssbc_committee table and puts them into a group with enhanced viewing permissions using the Groups plugin (https://wordpress.org/plugins/groups/). Makes a shorcode, [committee], which inserts a table and a JavaScript dropdown menu which allows viewing of present and past committees.
+ * Description:     Takes the users in this year's committee from the ssbc_committee table and puts them into a group with enhanced viewing permissions using the Groups plugin (https://wordpress.org/plugins/groups/). Makes a shortcode, [committee], which inserts a table and a JavaScript dropdown menu which allows viewing of present and past committees.
  * Author:          Lois Overvoorde
  * Author URI:      https://github.com/curiouscactus
  * Text Domain:     ssbc-committee
